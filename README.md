@@ -1,0 +1,2 @@
+# spingcloudconfig
+ms-pro
